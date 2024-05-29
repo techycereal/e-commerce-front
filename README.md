@@ -19,7 +19,7 @@ The Awesome Store is an innovative e-commerce platform designed with a microserv
 ## Technologies Used
 
 - **Frontend:** React, HTML, CSS, Tailwind CSS
-- **Backend:** Node.js, Express
+- **Backend:** Node.js, Express, NextJS
 - **Database:** MongoDB, Azure SQL Database
 - **Authentication:** JWT (JSON Web Tokens)
 - **Payment Processing:** Stripe
@@ -30,7 +30,7 @@ The Awesome Store is an innovative e-commerce platform designed with a microserv
 
 ### Prerequisites
 
-- Node.js (v14 or later)
+- Node.js (v20)
 - Docker
 - Kubernetes (optional for local deployment)
 - Azure account (for deployment)
