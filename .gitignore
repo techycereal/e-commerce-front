@@ -5,7 +5,9 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
-
+k8s
+.env
+Dockerfile
 # testing
 /coverage
 
